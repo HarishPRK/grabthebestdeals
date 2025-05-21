@@ -1,6 +1,6 @@
 # Grab the Best Deals Project
 
-This project is a static website for an e-commerce platform, likely focused on providing users with various deals on products. It includes pages for browsing products, viewing product details, managing orders, and a checkout process.
+This project is a static website for an e-commerce platform, focused on providing users with various deals on products. It includes pages for browsing products, viewing product details, managing orders, and a checkout process.
 
 ## Features
 
